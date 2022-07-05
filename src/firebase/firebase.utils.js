@@ -5,13 +5,7 @@ import { collection, addDoc, doc, setDoc, getDoc } from "firebase/firestore";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBlUZVBxBJidDlMWJdn39hjyrqCuhtZu44",
-  authDomain: "libaas-50648.firebaseapp.com",
-  projectId: "libaas-50648",
-  storageBucket: "libaas-50648.appspot.com",
-  messagingSenderId: "107130569083",
-  appId: "1:107130569083:web:a0dd12fdeccabe4600fdde",
-  measurementId: "G-WQFV1BTRCJ",
+
 };
 
 // Initialize Firebase
